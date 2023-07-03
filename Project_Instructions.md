@@ -304,10 +304,12 @@ Now it is time to consider how to update current existing data within the `index
 Stretch goals should not be attempted until previous tickets have been completed and tested.
 
 ## Ticket `#U4_06`
-- Inclue a `project-details.md` to the **root** directory.
+- Include a `README.md` to the **root** directory.
   - Detail the concept of this project in psuedo code within the document.
   -  **[Pseudo Code Article](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)**
+  -  [What is a README file?](https://www.mygreatlearning.com/blog/readme-file/)
 - Deploy this project.
-  - **GitHub Pages** / **Netlify** 
+  - **GitHub Pages** / **Netlify**
+  - [Netlify](https://app.netlify.com/)
+  - [How To...GitHub Pages](https://www.loom.com/share/6ef32778118840eb88a4e6d4f00cc3d2?sid=2b084cfe-2d87-4460-a14a-1c8dc54497bc) 
   - Update your **README.md** with a hyperlink to the deployed URL.
-- WIP
