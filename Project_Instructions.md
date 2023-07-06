@@ -1,4 +1,7 @@
-# What This Project Covers
+# Fake Storefront
+[Fake Storefront Rubric](https://docs.google.com/spreadsheets/d/1qeNQ0fMighfwl1VL_lzpCjGu8gagUsB5_MLCiFtFr-w/edit?usp=sharing)
+
+## What This Project Covers
 - DOM Manipulation
 - Async/Await
 - Promises / Fetch
