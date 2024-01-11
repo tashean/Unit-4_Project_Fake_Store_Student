@@ -4,6 +4,10 @@ body {
     padding-top: 6rem;
     background-image: url(https://as1.ftcdn.net/v2/jpg/05/38/30/68/1000_F_538306861_rQccAmW2YKxwFr2d1TkQT4RvtOo8Kswn.jpg) ;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -35,3 +39,10 @@ p {
     text-align: center;
 }
 
+footer {
+text-align: center;
+}
+
+h3{
+    color: white;
+}
